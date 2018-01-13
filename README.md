@@ -4,4 +4,6 @@ Technology Stack:
 
 1. ReactJS
 
-2. Webpack with Babel
+2. Redux
+
+3. Webpack with Babel
